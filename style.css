@@ -1,3 +1,6 @@
+.head{
+    display:flex;
+}
 .banner{
     background-color: black;
     height: 75px;
