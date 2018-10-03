@@ -50,16 +50,19 @@ h3 {
     max-width: 100%;
     max-height:200px;
 .info{
+    display:flex;
     position: relative;
 
 }
 .location{
+    display:flex;
     text-align: left;
     background-color: grey;
     position: relative;
 
 }
 .hours{
+    display:flex;
     padding-bottom: 10px;
     text-align: right;
     position: relative;
