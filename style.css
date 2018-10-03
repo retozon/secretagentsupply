@@ -2,6 +2,7 @@ header {
 display: flex;
 } 
 .banner{
+    display:flex;
     background-color: black;
     height: 75px;
     background-repeat: no-repeat;
